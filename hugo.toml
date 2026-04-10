@@ -9,7 +9,7 @@ languageCode = 'en-tt'
   [[module.mounts]]
     source = "themes/_menus_ttms/content"
     target = "content"
-title = 'Yummy Hot Chicken '
+title = 'Yummy Hot Chicken'
 baseURL = 'https://yummyhotchicken.ttmenus.com/'
 
 [markup]
@@ -53,7 +53,15 @@ baseURL = 'https://yummyhotchicken.ttmenus.com/'
     enabled = true
     apiUrl = "https://cms.ttmenus.com/api"
     serviceUrl = "https://cms.ttmenus.com"
+    # Local content-management-service: use both lines below and restart Hugo
+    # apiUrl = "http://localhost:8084/api"
+    # serviceUrl = "http://localhost:8084"
     clientId = "ttms_yummyhotchicken"
+
+# Menu Image Service - user-submitted images with admin approval
+[params.menuImageService]
+    enabled = true
+    apiUrl = "https://menu-images.ttmenus.com/api/v1"
     # For local development, use:
     # apiUrl = "http://localhost:8084/api"
     # serviceUrl = "http://localhost:8084"

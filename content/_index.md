@@ -1,4 +1,6 @@
 ---
-title: ""
+title: Yummy Hot Chicken
+
 ---
-<p>TTMenus Menu System.</p>
+
+<p>Crispy fried chicken, New Orleans–style wings, burgers, and <strong>Yummy Tea</strong> — all in one menu.</p>

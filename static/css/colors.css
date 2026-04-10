@@ -1,32 +1,48 @@
 :root {
-    --hero-bg-image-fg-color: #f4dec3;
-    --contact-info-bg: none;
-    --button-text-color2: #ffffff;
-    --main-bg-color: #f4dec3;
-    --menu-bg-color-1: #22273111;
-    --header-bordercolor-1: #dfeed4ff;
-    --modal-bg-container-color: #00000055;
-    --selected-button-color3: #fff;
-    --header-color: #000000ed;
-    --header-bg-color: #222731ee;
-    --selected-button-color4: #000000ee;
-    --button-color2: #000;
-    --header-bordercolor-2: #dfeed4ff;
-    --selected-text-color2: #fff;
-    --header-icon-color: #fefefe;
-    --menu-bg-color-2: #00000055;
-    --button-color1: #222731;
-    --selected-button-color2: #200;
-    --footer-text-color: #000;
-    --hero-text-color: #000;
-    --header-bg-image: none;
-    --button-text-color3: #fff;
-    --selected-text-color3: #85181c;
-    --selected-button-color1: #200;
-    --button-text-color1: #fefefe;
-    --main-text-color: #ffffff;
-    --main-bg: #000;
-    --footer-bg-color: #fefefe;
-    --selected-text-color1: #fff;
-    --hero-bg-color: #000000;
+  /* Header — royal blue bar, white type */
+  --header-color: #ffffffed;
+  --header-text-color: #fefefe;
+  --header-text-shadow-color: #00000066;
+  --header-bg-color: #1a4a9ef0;
+  --header-icon-color: #fefefe;
+  --header-bordercolor-1: #2d5cb8;
+  --header-bordercolor-2: #2d5cb8;
+  --header-bg-image: none;
+
+  /* Hero — brand blue; light overlay tint for image stacks */
+  --hero-bg-color: #1a4a9e;
+  --hero-bg-image-fg-color: #e8eef8;
+  --hero-text-color: #ffffff;
+  --contact-info-bg: none;
+
+  /* Main — white / fried-chicken panel */
+  --main-bg: #ffffff;
+  --main-bg-color: #ffffff;
+  --main-text-color: #1d3557;
+
+  /* Menu cards — blue gradient like “Signature Combos” */
+  --menu-bg-color-1: #1a4a9e;
+  --menu-bg-color-2: #153d7a;
+  --menu-text-color: #ffffff;
+
+  /* Buttons — orange price-pill / CTA */
+  --button-color1: #f37021;
+  --button-color2: #d85e18;
+  --button-text-color1: #fefefe;
+  --button-text-color2: #ffffff;
+  --button-text-color3: #fff;
+
+  /* Selected — blue selection; orange accent ring */
+  --selected-button-color1: #1a4a9e;
+  --selected-button-color2: #153d7a;
+  --selected-button-color3: #f37021;
+  --selected-button-color4: #1d3557;
+  --selected-text-color1: #fff;
+  --selected-text-color2: #fff;
+  --selected-text-color3: #f37021;
+
+  /* Footer & modals */
+  --footer-bg-color: #ffffff;
+  --footer-text-color: #1d3557;
+  --modal-bg-container-color: #00000055;
 }
