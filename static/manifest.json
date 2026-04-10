@@ -1,24 +1,26 @@
 {
-    "name": "{{SITE_TITLE}}",
-    "short_name": "{{SITE_TITLE}}",
-    "description": "{{SITE_TITLE}} Digital Menu",
-    "start_url": ".",
-    "background_color": "#7A1212",
+    "name": "Yummy Hot Chicken",
+    "short_name": "Yummy HC",
+    "description": "Yummy Hot Chicken digital menu — fried chicken, wings, burgers, family feasts, and Yummy Tea.",
+    "lang": "en",
+    "start_url": "/",
+    "scope": "/",
+    "background_color": "#1a4a9e",
     "display": "standalone",
-    "theme_color": "#3B5998",
+    "theme_color": "#1a4a9e",
     "icons": [
         {
             "src": "branding/favicon.ico",
-            "type": "image/ico",
+            "type": "image/x-icon",
             "sizes": "196x196",
-            "purpose": "any" 
+            "purpose": "any"
         },
         {
             "src": "branding/favicon.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
-        }, 
+        },
         {
             "src": "branding/favicon16.webp",
             "type": "image/webp",
@@ -40,7 +42,8 @@
         {
             "src": "branding/favicon192.webp",
             "type": "image/webp",
-            "sizes": "192x192"
+            "sizes": "192x192",
+            "purpose": "any"
         },
         {
             "src": "branding/favicon196.webp",
@@ -51,22 +54,23 @@
         {
             "src": "branding/favicon512.webp",
             "type": "image/webp",
-            "sizes": "512x512"
+            "sizes": "512x512",
+            "purpose": "any"
         }
     ],
-    "screenshots": [    
+    "screenshots": [
         {
             "src": "branding/richscreenshot1.webp",
             "sizes": "640x320",
             "type": "image/webp",
             "form_factor": "wide",
-            "label": "Application"
+            "label": "Yummy Hot Chicken menu"
         },
         {
             "src": "branding/richscreenshot2.webp",
             "sizes": "320x640",
             "type": "image/webp",
-            "label": "Application"
+            "label": "Yummy Hot Chicken menu (mobile)"
         }
     ]
 }
