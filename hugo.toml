@@ -90,7 +90,7 @@ baseURL = 'https://yummyhotchicken.ttmenus.com/'
     phone = 18682598669
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 50
     notifications = true
 
 [params.social]
