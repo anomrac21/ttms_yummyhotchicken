@@ -1,7 +1,9 @@
 ---
 title: Island Fresh Milk Smoothies
 weight: 120
-icon: https://ct.ttmenus.com/icons/food/icon-smoothie.webp
+icon: images/juicy-fruit-ice-blends.webp
+images:
+    primary: images/juicy-fruit-ice-blends.webp
 ---
 
 Island-style fresh milk smoothies.

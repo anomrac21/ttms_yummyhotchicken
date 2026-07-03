@@ -1,9 +1,9 @@
 ---
 title: Family Feasts
 weight: 60
-icon: https://ct.ttmenus.com/icons/food/icon-chicken.webp
+icon: images/fam-header.webp
 images:
-  top: images/fam-header.webp
+    primary: images/fam-header.webp
 ---
 
 Sharing sets for groups — see each feast for what’s included.

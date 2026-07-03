@@ -1,9 +1,9 @@
 ---
 title: Yummy Fried Chicken
 weight: 30
-icon: https://ct.ttmenus.com/icons/food/icon-chicken.webp
+icon: images/chicken-header.webp
 images:
-  top: images/chicken-header.webp
+    primary: images/chicken-header.webp
 ---
 
 Spicy or original — pieces and buckets.

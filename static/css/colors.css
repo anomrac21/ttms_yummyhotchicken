@@ -13,7 +13,7 @@
   --hero-bg-color: #1a4a9e;
   --hero-bg-image-fg-color: #e8eef8;
   --hero-text-color: #ffffff;
-  --contact-info-bg: none;
+  --contact-info-bg: #1a4a9e;
 
   /* Main — white / fried-chicken panel */
   --main-bg: #ffffff;
@@ -42,7 +42,7 @@
   --selected-text-color3: #f37021;
 
   /* Footer & modals */
-  --footer-bg-color: #ffffff;
-  --footer-text-color: #1d3557;
+  --footer-bg-color: #1a4a9e;
+  --footer-text-color: #ffffff;
   --modal-bg-container-color: #00000055;
 }

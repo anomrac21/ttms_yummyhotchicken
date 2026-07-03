@@ -1,9 +1,9 @@
 ---
 title: Yummy Burgers
 weight: 55
-icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
+icon: images/burger-header.webp
 images:
-  top: images/burger-header.webp
+    primary: images/burger-header.webp
 ---
 
 Fried chicken burgers — spicy or original.

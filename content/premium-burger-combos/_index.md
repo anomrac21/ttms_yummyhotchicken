@@ -1,8 +1,9 @@
 ---
 title: Premium Burger Combos
 weight: 50
-icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
-
+icon: images/classic-beef-burger-combo.webp
+images:
+    primary: images/classic-beef-burger-combo.webp
 ---
 
 Burger combos with fries and drink.

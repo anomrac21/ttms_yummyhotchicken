@@ -1,9 +1,9 @@
 ---
 title: Signature Combos
 weight: 20
-icon: https://ct.ttmenus.com/icons/food/icon-chicken.webp
+icon: images/combos.webp
 images:
-  top: images/combos.webp
+    primary: images/combos.webp
 ---
 
 Fried chicken with fries and a soft drink.
