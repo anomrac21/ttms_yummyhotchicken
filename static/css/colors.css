@@ -1,48 +1,64 @@
 :root {
-  /* Header — royal blue bar, white type */
-  --header-color: #ffffffed;
-  --header-text-color: #fefefe;
-  --header-text-shadow-color: #00000066;
-  --header-bg-color: #1a4a9ef0;
-  --header-icon-color: #fefefe;
-  --header-bordercolor-1: #2d5cb8;
-  --header-bordercolor-2: #2d5cb8;
-  --header-bg-image: none;
+    /* Header */
+    --header-color: #1a4a9e;
+    --header-bg-color: #1a4a9e;
+    --header-text-color: #fefefe;
+    --header-text-shadow-color: #00000066;
+    --header-icon-color: #fefefe;
+    --header-bordercolor-1: #2d5cb8;
+    --header-bordercolor-2: #2d5cb8;
+    --header-border-color: #2d5cb8;
+    --header-bg-image: none;
 
-  /* Hero — brand blue; light overlay tint for image stacks */
-  --hero-bg-color: #1a4a9e;
-  --hero-bg-image-fg-color: #e8eef8;
-  --hero-text-color: #ffffff;
-  --contact-info-bg: #1a4a9e;
+    /* Hero */
+    --hero-bg-color: #1a4a9e;
+    --hero-bg-color-1: #1a4a9e;
+    --hero-bg-color-2: #1a4a9e;
+    --hero-bg-image-fg-color: #e8eef8;
+    --hero-text-color: #ffffff;
+    --hero-features-icon-color: #fefefe;
+    --hero-features-icon-bg-color: #1a4a9e;
+    --hero-border-color: #2d5cb8;
+    --contact-info-bg: #1a4a9e;
 
-  /* Main — white / fried-chicken panel */
-  --main-bg: #ffffff;
-  --main-bg-color: #ffffff;
-  --main-text-color: #1d3557;
+    /* Main */
+    --main-bg: #1a4a9e;
+    --main-bg-color: #1a4a9e;
+    --main-text-color: #ffffff;
 
-  /* Menu cards — blue gradient like “Signature Combos” */
-  --menu-bg-color-1: #1a4a9e;
-  --menu-bg-color-2: #153d7a;
-  --menu-text-color: #ffffff;
+    /* Menu */
+    --menu-bg-color-1: #1a4a9e;
+    --menu-bg-color-2: #153d7a;
+    --menu-text-color: #ffffff;
 
-  /* Buttons — orange price-pill / CTA */
-  --button-color1: #f37021;
-  --button-color2: #d85e18;
-  --button-text-color1: #fefefe;
-  --button-text-color2: #ffffff;
-  --button-text-color3: #fff;
+    /* Buttons */
+    --button-color1: #f37021;
+    --button-color2: #d85e18;
+    --button-text-color1: #fefefe;
+    --button-text-color2: #ffffff;
+    --button-text-color3: #ffffff;
+    --favorite-color: #1a4a9e;
 
-  /* Selected — blue selection; orange accent ring */
-  --selected-button-color1: #1a4a9e;
-  --selected-button-color2: #153d7a;
-  --selected-button-color3: #f37021;
-  --selected-button-color4: #1d3557;
-  --selected-text-color1: #fff;
-  --selected-text-color2: #fff;
-  --selected-text-color3: #f37021;
+    /* Selected */
+    --selected-button-color1: #1a4a9e;
+    --selected-button-color2: #153d7a;
+    --selected-button-color3: #f37021;
+    --selected-button-color4: #1d3557;
+    --selected-text-color1: #ffffff;
+    --selected-text-color2: #ffffff;
+    --selected-text-color3: #ffffff;
+    --select-color: #f37021;
 
-  /* Footer & modals */
-  --footer-bg-color: #1a4a9e;
-  --footer-text-color: #ffffff;
-  --modal-bg-container-color: #00000055;
+    /* Accent */
+    --accent-color: #1a4a9e;
+    --accent-text-color: #ffffff;
+    --accent-glow-color: #e8eef8;
+
+    /* Footer */
+    --footer-bg-color: #1a4a9e;
+    --footer-text-color: #ffffff;
+    --footer-icon-color: #ffffff;
+
+    /* Modal */
+    --modal-bg-container-color: #000000;
 }
